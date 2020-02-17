@@ -1,1 +1,1 @@
-mosfet driver with bootstrap capacitor.
+mosfet driver with bootstrap resistor.
